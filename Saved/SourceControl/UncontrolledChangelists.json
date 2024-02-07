@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/lisajl/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/lisajl/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/lisajl/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/lisajl/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/lisajl/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"/Users/lisajl/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Widget.uasset",
+				"/Users/lisajl/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/HP2.uasset",
+				"/Users/lisajl/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Projectile.uasset",
+				"/Users/lisajl/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Enemy.uasset",
+				"/Users/lisajl/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/MI_Hole1.uasset",
+				"/Users/lisajl/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/blue.uasset",
+				"/Users/lisajl/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/darkblue.uasset",
+				"/Users/lisajl/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/darkblue1.uasset",
+				"/Users/lisajl/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/darkblue2.uasset",
+				"/Users/lisajl/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/darkblue3.uasset",
+				"/Users/lisajl/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/darkblue4.uasset",
+				"/Users/lisajl/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/darkblue5.uasset",
+				"/Users/lisajl/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/purple.uasset",
+				"/Users/lisajl/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/pink.uasset",
+				"/Users/lisajl/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/red.uasset",
+				"/Users/lisajl/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/green.uasset",
+				"/Users/lisajl/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/orange.uasset",
+				"/Users/lisajl/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/MI_Hole.uasset",
+				"/Users/lisajl/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Healthpack.uasset",
+				"/Users/lisajl/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Interface.uasset"
+			]
+		}
+	]
+}
